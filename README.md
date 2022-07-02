@@ -1,5 +1,5 @@
 # MPMAB_BEACON
-This is code used for the paper "Decentralized Multi-player Multi-armed Bandits: Beyond Linear Reward Functions", Neurips 2021.
+This is code used for the paper "Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization", Neurips 2021.
 
 # Requirements
 - Python 3.7
